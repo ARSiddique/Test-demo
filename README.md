@@ -1,2 +1,2 @@
 # Test-demo
-First repository for testing purpose
+First repository for testing
